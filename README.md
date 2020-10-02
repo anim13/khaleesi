@@ -5,3 +5,6 @@
 
 ## Bugs / RFE:
 [https://bugzilla.redhat.com/buglist.cgi?bug_status=__open__&product=khaleesi](https://bugzilla.redhat.com/buglist.cgi?bug_status=__open__&product=khaleesi)
+
+for more information:
+https://docs.ansible.com/
